@@ -1,0 +1,10 @@
+{
+    "android": {
+        "release": {
+            "keystore": "swsmwork.jks",
+            "alias": "key1",
+            "storePassword": "12345678",
+            "password": "12345678"
+        }
+    }
+}
